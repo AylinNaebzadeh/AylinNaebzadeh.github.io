@@ -11,24 +11,24 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
+|2020|Fall  | **<a href="">Computer Workshop</a>**         |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="/ds98/">Data Structures</a>** |
+|2020|Fall  | **<a href="/ds98/">Introduction and recognition to the major</a>** |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Lab</a>** |
+|2020|Fall  | **<a href="">Programing with computer</a>** |
 
 
 |           | **Past**                       |
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/ad97/">Algorithm Design</a>**         |
+|2020|Winter| **<a href="/ad97/">Geommetry and Calculus</a>**         |
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/ap97/">Advanced Programming - C#</a>** |
+|2020|Spring| **<a href="/ap97/">Physic - C#</a>** |
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/nlp97/">Natural Language Processing (Undergraduate)</a>** |
+|2019|Fall  | **<a href="/nlp97/">Chemistry</a>** |
 |----|------|--------------------------------|
-|2018|Fall  | **<a href="/ds97/">Data Structures</a>**            |
+|2019|Fall  | **<a href="/ds97/">Arabic</a>**            |
 |----|------|--------------------------------|
-|2018|Fall  | **Advanced Programming - C#** |
+|2019|Fall  | **English - C#** |
 |----|------|--------------------------------------------|
 |2018|Fall  | **Natural Language Processing (Graduate)** |
 |----|------|--------------------------------------------|
