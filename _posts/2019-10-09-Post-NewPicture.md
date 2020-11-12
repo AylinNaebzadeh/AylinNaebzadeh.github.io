@@ -17,7 +17,7 @@ Please pray for me to comprehend my lessons(they are hard to absorb for me).
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![]()
 
 ---
-**Test**: This is atest
+**Test**: 
