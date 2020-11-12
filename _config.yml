@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    :  " ایلین نائب زاده "
+title                    : "آیلین نائب زاده" 
 title_separator          : "-"
 name                     : "Poorang" 
 description              : "Welcome to my web site."
@@ -112,11 +112,11 @@ author:
   bio              : I'm a student of cumputer engineering.
   location         : "تهران"
   email            : aylin.naebzadeh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  twitter: 
+  linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: Aylin
+  instagram: 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -163,7 +163,7 @@ footer:
       # url:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
+      url: "http://calendly.com/aylin-naebzadeh"
 
 
 # Reading Files
