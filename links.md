@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [Favorite pet](http://african-grey-parrot.com)
+* [The most visited page by me :)](http://kanoon.ir)
+* [One of my best counsellores](http://khaksar.in)
+* [My university](http://iust.ac.ir)
 
