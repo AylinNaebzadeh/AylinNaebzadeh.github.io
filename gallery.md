@@ -17,16 +17,16 @@ gallery:
     title: "Image 2 title caption"
   - url: /assets/images/P3.jpg
     image_path: /assets/images/P3.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"  
-  - url: /assets/images/4.jpg
-    image_path: /assets/images/4.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /assets/images/5.jpg
-    image_path: /assets/images/5.jpg
-    alt: "placeholder image 5"
-    title: "Image 5 title caption"    
+    alt: ""
+    title: ""  
+  - url: /assets/images/
+    image_path: /assets/images/
+    alt: ""
+    title: ""
+  - url: /assets/images/
+    image_path: /assets/images/
+    alt: ""
+    title: ""    
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
