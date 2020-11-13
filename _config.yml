@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Aylin Naebzadeh"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/36300.jpg"
   bio              : I'm a student of cumputer engineering.
   location         : "تهران"
   email            : aylin.naebzadeh@gmail.com
@@ -138,7 +138,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
+      url: "http://calendly.com/aylin-naebzadeh"
 
 # Site Footer
 footer:
