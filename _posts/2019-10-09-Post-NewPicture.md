@@ -17,7 +17,7 @@ Please pray for me to comprehend my lessons(they are hard to absorb for me).
 
 
 
-![]()
+![alt text](../assets/images/untitled6.png "My new classmates")
 
 ---
-**Test**: 
+**Test**: This is atest 
