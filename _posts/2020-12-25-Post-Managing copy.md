@@ -32,12 +32,15 @@ You can write some notes to become aware of what you want to do in next days.Bas
 It's a very useful way for when you have a lot of works that should be done and you need to have a more accurate and exact plan.
 
                 (Miss Azari is one of the bests of our college.)
+
 ***********************************************************************
 
 Miss Amiri
 
 You have to manage your plans but something more consiquential is to fallow and study each lesson according to its master. You must take part and participate in your classes as well as try to comprehend lessons on them. Do whole of the homeworks even if you are not required to do. Get serious your professional lessons , if you don't and become lazy from the first steps you will destroy your futur and face with problem in university. In university you have to be your own counsellor.
+
                 (Miss Amiri helped me too much during the first month of university.)
+                
 ////////////////////////////////////////////////////////////////////////
 
 Miss Fesahat
