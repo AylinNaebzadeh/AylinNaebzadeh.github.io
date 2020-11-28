@@ -40,7 +40,7 @@ Miss Amiri
 You have to manage your plans but something more consiquential is to fallow and study each lesson according to its master. You must take part and participate in your classes as well as try to comprehend lessons on them. Do whole of the homeworks even if you are not required to do. Get serious your professional lessons , if you don't and become lazy from the first steps you will destroy your futur and face with problem in university. In university you have to be your own counsellor.
 
                 (Miss Amiri helped me too much during the first month of university.)
-                
+
 ////////////////////////////////////////////////////////////////////////
 
 Miss Fesahat
@@ -53,9 +53,6 @@ For instance I have a general viewpoint for myself and everyday I decide what to
 2 ) It will be really nice to put daily exercise in your planning in order to become more energetic. It will also help you to escape from negetive thoughts.
 
 3 ) Today be the leader for your tomorrow --> Enjoin yourself to do what you plan for.
-
-
-
 
 
 
