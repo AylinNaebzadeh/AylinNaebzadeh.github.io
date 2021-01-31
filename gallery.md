@@ -19,10 +19,10 @@ gallery:
     image_path: /assets/images/P3.jpg
     alt: ""
     title: ""  
-  - url: /assets/images/
-    image_path: /assets/images/
-    alt: ""
-    title: ""
+  - url: /assets/images/new.JPG
+    image_path: /assets/images/new.JPG
+    alt: "new"
+    title: "newone"
   - url: /assets/images/
     image_path: /assets/images/
     alt: ""
