@@ -22,15 +22,7 @@ At last I'm especially agrateful for Miss Mahya Khazaie and Mr Amouie which taug
 ## <<My Song>>
 
 
-<!-- ![alt text](../assets/images/firstpage.png "My new site") -->
-<audio src="../music/song-Copy.mp3" controls>
-    <embed
-    src="../music/song-Copy.mp3"
-    width="300"
-    height="90"
-    loop="false"
-    autostart="false">
-</audio>
+
 
 
 
