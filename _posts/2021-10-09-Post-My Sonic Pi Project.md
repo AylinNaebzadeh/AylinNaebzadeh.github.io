@@ -1,11 +1,11 @@
 ---
 layout: posts
-title: My Sonic Pi Project
+title: My SonicPi Project
 ---
 
-## My Sonic Pi Project
+## My SonicPi Project
 
-In this post I'm going to talk about my programming project.We have been told to make a song using Sonic Pi application .By using this app you can code your own song😃. This app has been made by Sam Aaron and suffice to say it's an inovative one.
+In this post I'm going to talk about my programming project.We have been told to make a song using SonicPi application .By using this app you can code your own song😃. This app has been made by Sam Aaron and suffice to say it's an inovative one.
 
 
 To be honest my song is very simple.At first I chose my favourite song then I searched in google to find its chords .Just like python I put the chords in  3 lists(intro , verse , chorus).For playing the song I used of live_loops which cause your song to play forever.
@@ -19,6 +19,18 @@ At last I'm especially agrateful for Miss Mahya Khazaie and Mr Amouie which taug
 
 [Here you can download this app](https://sonic-pi.net/)
 
+## <<My Song>>
+
+
+<!-- ![alt text](../assets/images/firstpage.png "My new site") -->
+<audio src="../music/song-Copy.mp3" controls>
+    <embed
+    src="../music/song-Copy.mp3"
+    width="300"
+    height="90"
+    loop="false"
+    autostart="false">
+</audio>
 
 
 
