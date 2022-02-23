@@ -16,17 +16,17 @@ The main purpose of this project, is to compare the performance of different cod
 
 ***
 ### The first assumption(mine)
-<pre>
-    My idea was to check the different ways for calculateing the sum of elements in an array. I've checked it using the different methods.
+
+My idea was to check the different ways for calculateing the sum of elements in an array. I've checked it using the different methods.
 - Recursion
     - with tail
     - without tail
 - for
 - while
 - LINQ
-    - ```.Aggregate()```
-    - ```.Sum()```
-</pre>
+    - .Aggregate()
+    - .Sum()
+
 ### The second assumption(Aysa)
 ### The third assumption(Golbarg)
 ### The forth assumption(Melika)
