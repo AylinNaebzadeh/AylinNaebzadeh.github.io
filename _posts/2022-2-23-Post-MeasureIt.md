@@ -13,8 +13,24 @@ Error Message:
 Which means that the code is using more time than what is specified. We have asked this question for many times, that "why this code has less execution time than the other?" or vice versa.<br />
 In the previous session of Design and Analysis of Algorithms course, we have been introduced a new tool, which helps us to calculate the time of different algorithms. This tool has been impelemented by Mr. Vance Morrison.<br />
 The main purpose of this project, is to compare the performance of different codes, and finally how to improve and make our code better. 
-***
 
+***
+### The first assumption(mine)
+<pre>
+    My idea was to check the different ways for calculateing the sum of elements in an array. I've checked it using the different methods.
+- Recursion
+    - with tail
+    - without tail
+- for
+- while
+- LINQ
+    - ```.Aggregate()```
+    - ```.Sum()```
+</pre>
+### The second assumption(Aysa)
+### The third assumption(Golbarg)
+### The forth assumption(Melika)
+### The fifth assumption(Zahra)
 
 
 
