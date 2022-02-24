@@ -15,8 +15,8 @@ In the previous session of Design and Analysis of Algorithms course, we have bee
 The main purpose of this project, is to compare the performance of different codes, and finally how to improve and make our code better. 
 
 ***
-<!-- ### The first assumption(mine) -->
-[click on this link](###the-first-assumption(mine))
+### The first assumption(mine)
+
 My idea was to check the different ways for calculateing the sum of elements in an array. I've checked it using the following different methods:
 - Recursion
     - with tail
