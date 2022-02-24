@@ -130,7 +130,53 @@ Also this [link](https://www.infoworld.com/article/3616600/when-to-use-string-vs
 
 ***
 ### The third assumption(Golbarg)
-
+Golbarg's idea was to the check whether it is better to precompute the values of conditions or not. She first has implemented a `point` class, then in a `for` loop, has initialized an array of points. In other `for` loop there is a simple `if` condition. The difference between these 2 codes is in `min` variable.
+```c#
+public struct point{
+    public int X;
+    public int Y;
+    public point(int x , int y)
+    {
+        X = x;
+        Y = y;
+    }
+}
+public static void MeasureGolbarg()
+{
+    point[] points = new point[100];
+    double min = double.MaxValue;
+    Random rnd = new Random();
+    double pish = 0;
+    for(int i = 0;i< 100;i++)
+    {
+        points[i] = new point(rnd.Next(-10,10),rnd.Next(-10,10));
+    }
+    timer1000.Measure("coumputation on conditions", delegate
+    {
+        for(int i=1; i<100; i++)
+        {
+            if(Math.Sqrt(Math.Pow((points[i].X - points[i-1].X),2) + Math.Pow((points[i].Y - points[i-1].Y),2)) < min){
+                min = Math.Sqrt(Math.Pow((points[i].X - points[i-1].X),2) + Math.Pow((points[i].Y - points[i-1].Y),2));
+            }
+        }
+    });
+    min = double.MaxValue;
+    timer1000.Measure("precomputation", delegate
+    {
+        for (int i = 1;i< 100; i++)
+        {
+                pish = Math.Pow((points[i].X - points[i-1].X),2) + Math.Pow((points[i].Y - points[i-1].Y),2) ;
+                if(pish < min)
+                {
+                    min = pish;
+                }
+        }
+    });
+}
+```
+The final result(the colored columne showes the average time which has been use foreach algorithm):
+![mine](../assets/images/golbarg.png "GSA")
+There is not much difference between these 2 values, but it shows that it is better to precompute the values outside of `if` condition.
 ***
 ### The forth assumption(Melika)
 
