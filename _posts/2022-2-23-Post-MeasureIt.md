@@ -25,49 +25,51 @@ My idea was to check the different ways for calculateing the sum of elements in 
 - LINQ
     - .Aggregate()
     - .Sum()
-<a>
+
+<!-- end of the list -->
+
 And here are my codes:
 ```c#
-    public static int sumWithTailRecursion(int[] myArray, int length, int sum)
+public static int sumWithTailRecursion(int[] myArray, int length, int sum)
+{
+    if (length <= 0)
     {
-        if (length <= 0)
+        return sum;
+    }
+    return sumWithTailRecursion(myArray, length - 1, sum + myArray[length - 1]);
+}
+public static int sumWithRecursion(int[] myArray, int length)
+{
+    if (length <= 0)
+    {
+        return 0;
+    }
+    return sumWithRecursion(myArray, length - 1) + myArray[length - 1];
+}
+public static void MeasureAylin()
+{
+    int sum = 0;
+    int[] myArray = new int[1000];
+    int length = myArray.Length;
+    timer1000.Measure("SumUsingTail", delegate{
+        int res1 = sumWithTailRecursion(myArray, length, sum);
+    });
+    timer1000.Measure("SumWithNonTail", delegate{
+        int res2 = sumWithRecursion(myArray, length);
+    });
+    timer1000.Measure("SumWith.Aggregate()", delegate{
+        int res3 = myArray.Aggregate((ele1, ele2) => ele1 + ele2);
+    });
+    timer1000.Measure("SumWith.Sum()", delegate{
+        int res4 = myArray.Sum();
+    });
+    timer1000.Measure("SumWithForloop", delegate{
+        for (int i = 0; i < length; i++)
         {
-            return sum;
+            sum += myArray[i];
         }
-        return sumWithTailRecursion(myArray, length - 1, sum + myArray[length - 1]);
-    }
-    public static int sumWithRecursion(int[] myArray, int length)
-    {
-        if (length <= 0)
-        {
-            return 0;
-        }
-        return sumWithRecursion(myArray, length - 1) + myArray[length - 1];
-    }
-    public static void MeasureAylin()
-    {
-        int sum = 0;
-        int[] myArray = new int[1000];
-        int length = myArray.Length;
-        timer1000.Measure("SumUsingTail", delegate{
-            int res1 = sumWithTailRecursion(myArray, length, sum);
-        });
-        timer1000.Measure("SumWithNonTail", delegate{
-            int res2 = sumWithRecursion(myArray, length);
-        });
-        timer1000.Measure("SumWith.Aggregate()", delegate{
-            int res3 = myArray.Aggregate((ele1, ele2) => ele1 + ele2);
-        });
-        timer1000.Measure("SumWith.Sum()", delegate{
-            int res4 = myArray.Sum();
-        });
-        timer1000.Measure("SumWithForloop", delegate{
-            for (int i = 0; i < length; i++)
-            {
-                sum += myArray[i];
-            }
-        });
-    }
+    });
+}
 ```
 The final result(the colored columne showes the average time which has been use foreach algorithm):
 ![mine](../assets/images/mine.png "ANZ")
