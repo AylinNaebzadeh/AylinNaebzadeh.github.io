@@ -76,10 +76,12 @@ The final result(the colored columne showes the average time which has been use 
 The strange thing is that by using the tail-recursive function, time was not decreased. This link shows that actually there is not much difference between these 2 kindes of recursions, but tail recursion seems to be worse. Base on this [link](https://www.baeldung.com/cs/tail-vs-non-tail-recursion), there are two problems for non-tail recursion function.
 
 > The first issue is that we risk a stack overflow. If the recursion is too deep, it will eventually run out of the stack
-> space and be unable to add a new frame. This scenario plays out in the case of inputs that are too large.
+> space and be unable to add a new frame. This scenario plays out in the case of inputs that are too large.<br/>
 > The second is that calculation starts from the base case, and we traverse the whole array to reach it. During that 
 > pass, we don’t do any calculations. Only after hitting the base case can we start adding the array’s elements to one 
-> another. We do so by going back to the first call. So, we pass the input array twice instead of once,
+> another. We do so by going back to the first call. So, we pass the input array twice instead of once.
+
+<!-- end of the quote -->
 ***
 ### The second assumption(Aysa)
 
