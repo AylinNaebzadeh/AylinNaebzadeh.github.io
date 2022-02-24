@@ -25,7 +25,7 @@ My idea was to check the different ways for calculateing the sum of elements in 
 - LINQ
     - .Aggregate()
     - .Sum()
-
+<br />
 And here are my codes:
 ```c#
     public static int sumWithTailRecursion(int[] myArray, int length, int sum)
