@@ -112,6 +112,13 @@ public static void MeasureAysa()
 ```
 The final result(the colored columne showes the average time which has been use foreach algorithm):
 ![mine](../assets/images/aysa.png "AMN")
+There is a vast difference between the amount of times in this 2 cases, and obviously `StringBuilder` is better. For example in her example, which has a `for` loop with 1000 iterations, a plenty of memory and time is used, in the other words it means that a lot of strings have been allocated and discarded.<br/>
+This [link](https://stackoverflow.com/questions/1972983/string-concatenation-vs-string-builder-append) has a good explanation for its reason. 
+> Strings are immutable. String concatenation creates a new string, needing more memory, and is generally considered slow.
+> On the other hand, StringBuilder is designed to be appended, removed, etc.
+
+<!-- end of aysa quote -->
+
 ***
 ### The third assumption(Golbarg)
 
