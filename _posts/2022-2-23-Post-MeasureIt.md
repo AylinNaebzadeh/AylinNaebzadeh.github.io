@@ -182,8 +182,24 @@ There is not much difference between these 2 values, but it shows that it is bet
 
 ***
 ### The fifth assumption(Zahra)
+Zahra's idea was to check the difference between creating a new `Tuple`. She checked 2 ways. In the first algorithm, she used `new` keyword, but in the second one she used `.Create()`, which is a predefined function.
+```c#
+public static void MeasureZahra()
+{
+    timer1000.Measure("NewTuple", delegate
+    {
+        Tuple<int,int> t1 = new Tuple<int,int>(5, 3);
+    });
 
-
+    timer1000.Measure("CreateTuple", delegate
+    {
+        Tuple<int,int> t2 = Tuple.Create(1, 2);
+    });
+}
+```
+The final result(the colored columne showes the average time which has been use foreach algorithm):
+![mine](../assets/images/zahra.png "ZSTA")
+As it is shown in the results, the second way works faster. She guessed that it can be because, in the first way we also must specify the types of variables, but in the second way there is no such need.
 
 
 
