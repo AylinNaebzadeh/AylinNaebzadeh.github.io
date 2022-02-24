@@ -177,6 +177,7 @@ public static void MeasureGolbarg()
 The final result(the colored columne showes the average time which has been use foreach algorithm):
 ![mine](../assets/images/golbarg.png "GSA")
 There is not much difference between these 2 values, but it shows that it is better to precompute the values outside of `if` condition.
+
 ***
 ### The forth assumption(Melika)
 
@@ -199,7 +200,7 @@ public static void MeasureZahra()
 ```
 The final result(the colored columne showes the average time which has been use foreach algorithm):
 ![mine](../assets/images/zahra.png "ZSTA")
-As it is shown in the results, the second way works faster. She guessed that it can be because, in the first way we also must specify the types of variables, but in the second way there is no such need.
+As it is shown in the results, the first way is faster.
 
 
 
