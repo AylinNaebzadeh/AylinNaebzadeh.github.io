@@ -117,7 +117,16 @@ This [link](https://stackoverflow.com/questions/1972983/string-concatenation-vs-
 > Strings are immutable. String concatenation creates a new string, needing more memory, and is generally considered slow.
 > On the other hand, StringBuilder is designed to be appended, removed, etc.
 
-<!-- end of aysa quote -->
+<!-- end of aysa first quote -->
+
+Also this [link](https://www.infoworld.com/article/3616600/when-to-use-string-vs-stringbuilder-in-net-core.html#:~:text=Note%20that%20regular%20string%20concatenations,string%20concatenations%2C%20use%20a%20string.&text=In%20short%2C%20use%20StringBuilder%20only%20for%20a%20large%20number%20of%20concatenations.) provides more explanation about `StringBuilder` in .Net:
+> StringBuilder is an example of a mutable item. In C#, a StringBuilder is a mutable series of characters that can be
+> extended to store more characters if required. Unlike with strings, modifying a StringBuilder instance does not result
+> in the creation of a new instance in memory.<br/>
+> When you want to change a string, the Common Language Runtime generates a new string from scratch and discards the old 
+> one. So, if you append a series of characters to a string, you will recreate the same string in memory multiple times. 
+> By contrast, the StringBuilder class allocates memory for buffer space and then writes new characters directly into the
+> buffer. Allocation happens only once.
 
 ***
 ### The third assumption(Golbarg)
