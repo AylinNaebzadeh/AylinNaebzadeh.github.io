@@ -21,10 +21,10 @@ My idea was to check the different ways for calculateing the sum of elements in 
 - Recursion
     - with tail
     - without tail
-- for
+- `for`
 - LINQ
-    - .Aggregate()
-    - .Sum()
+    - `.Aggregate()`
+    - `.Sum()`
 
 <!-- end of the list -->
 
@@ -82,7 +82,8 @@ The strange thing is that by using the tail-recursive function, time was not dec
 > another. We do so by going back to the first call. So, we pass the input array twice instead of once.
 
 <!-- end of the quote -->
-Now if we want to talk about LINQs. Sometimes they can be really helpful and easy to read, but it can not always make the performance better. And if we don't know the implementation of a LINQ function, so maybe it is better not to use it. And for example in this simple algorithm, a simple for loop works much faster than `.Sort` and `.Aggregate()` mehtods.
+Now if we want to talk about LINQs. Sometimes they can be really helpful and easy to read, but it can not always make the performance better. And if we don't know the implementation of a LINQ function, so maybe it is better not to use it. For example in this simple algorithm, a simple `for` loop works much faster than `.Sort` and `.Aggregate()` mehtods.
+
 ***
 ### The second assumption(Aysa)
 
