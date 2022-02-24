@@ -180,6 +180,47 @@ There is not much difference between these 2 values, but it shows that it is bet
 
 ***
 ### The forth assumption(Melika)
+Melika's idea was to check 2 different LINQ methods for sorting a list and their running times:
+- `.OrderBy()`
+- `.Sort()`
+
+<!-- end of the list -->
+
+```c#
+public static void MeasureMelika(){
+    Random random = new Random();
+    List<int> Nums1 = new List<int>();
+    List<int> Nums2 = new List<int>();
+    List<int> Nums3 = new List<int>();
+
+    for(int i = 0; i < 10; i++){
+        int num = random.Next(1, 1000);
+        Nums1.Add(num);
+        Nums2.Add(num);
+    }
+
+    timer1000.Measure("List.OrderBy()", delegate {
+        IEnumerable<int> c =  Nums2.OrderBy(x => x);
+        foreach(var i in c){ Nums3.Add(i); }
+    });
+
+    timer1000.Measure("List.Sort()", delegate {
+        Nums1.Sort();
+        foreach(var i in Nums1){ Nums3.Add(i); }
+    });
+    
+    for(int i = 0; i < Nums3.Count; i++)
+    {
+        Nums3[i]++;
+    }
+}
+```
+The final result(the colored columne showes the average time which has been use foreach algorithm):
+![mine](../assets/images/melika.png "MMF")
+There is an important point about the first method. The output of `.OrderBy()` function is an `Enumerable`, and if we don't `Enumerate` the output(in this example `c`) the compiler may ignore it, and in other words the sorting algorithm won't be done completely.<br/>
+And the other reason is that for `.OrderBy()` we must initialize it with a key(in this example `x`). And every time that `.OrderBy()` is called, the `delegate` will be called either.<br/>
+But there is not such a thing in `.Sort()` function. The positive point is that, this method sorts our list ***in-place***. But `.OrderBy()` returns an another version of our list. So for see the correct result, it's better try to access the elements of both lists after sorting. For example in these 2 codes, she has written a `for` loop which increases each element of sorted lists.
+And as it's shown in the picture, `.Sort()` function is better than the `.OrderBy()`.
 
 ***
 ### The fifth assumption(Zahra)
@@ -200,7 +241,7 @@ public static void MeasureZahra()
 ```
 The final result(the colored columne showes the average time which has been use foreach algorithm):
 ![mine](../assets/images/zahra.png "ZSTA")
-As it is shown in the results, the first way is faster.
+As it is shown in the results, the first way is faster. Actually, there is not much difference
 
 
 
