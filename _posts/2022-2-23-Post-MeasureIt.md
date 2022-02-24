@@ -110,7 +110,8 @@ public static void MeasureAysa()
     });
 }
 ```
-
+The final result(the colored columne showes the average time which has been use foreach algorithm):
+![mine](../assets/images/aysa.png "AMN")
 ***
 ### The third assumption(Golbarg)
 
