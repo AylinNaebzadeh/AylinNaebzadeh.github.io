@@ -82,6 +82,7 @@ The strange thing is that by using the tail-recursive function, time was not dec
 > another. We do so by going back to the first call. So, we pass the input array twice instead of once.
 
 <!-- end of the quote -->
+
 ***
 ### The second assumption(Aysa)
 
