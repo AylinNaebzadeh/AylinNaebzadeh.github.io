@@ -25,7 +25,7 @@ My idea was to check the different ways for calculateing the sum of elements in 
 - LINQ
     - .Aggregate()
     - .Sum()
-<br />
+<a>
 And here are my codes:
 ```c#
     public static int sumWithTailRecursion(int[] myArray, int length, int sum)
@@ -69,7 +69,7 @@ And here are my codes:
         });
     }
 ```
-And here is the final result(the colored columne showes the average time which has been use foreach algorithm):
+The final result(the colored columne showes the average time which has been use foreach algorithm):
 ![mine](../assets/images/mine.png "ANZ")
 
 ***
