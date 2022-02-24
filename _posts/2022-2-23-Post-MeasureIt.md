@@ -86,9 +86,38 @@ Now if we want to talk about LINQs. Sometimes they can be really helpful and eas
 
 ***
 ### The second assumption(Aysa)
+Aysa's idea was to calculate the difference between using `StringBuilder` and `string` `classes`, for adding characters to an string. In the first `delegate` she used `+` operator to add a character to `s`. And in the second `delegate`, she created an object of `StringBuilder` then by calling the predefined function, `.Append()`, a new character would be added. 
+Here are her codes:
+```c#
+public static void MeasureAysa()
+{
+    timer1000.Measure("StringConcatenationOperations", delegate
+    {
+        string s = "x";
+        for (int i = 0; i < 10000; i++)
+        {
+            s += "a";
+        }
+    });
 
+    timer1000.Measure("Stringbuilder", delegate
+    {
+        StringBuilder sb = new StringBuilder("x");
+        for (int i = 0; i < 10000; i++)
+        {
+            sb.Append("a");
+        }
+    });
+}
+```
+
+***
 ### The third assumption(Golbarg)
+
+***
 ### The forth assumption(Melika)
+
+***
 ### The fifth assumption(Zahra)
 
 
