@@ -82,7 +82,7 @@ The strange thing is that by using the tail-recursive function, time was not dec
 > another. We do so by going back to the first call. So, we pass the input array twice instead of once.
 
 <!-- end of the quote -->
-Now if we want to talk about LINQs. Sometimes they can be really helpful and easy to read, but it can not always make the performance better. And if we don't know the implementation of a LINQ function, so maybe it is better not to use it. For example in this simple algorithm, a simple `for` loop works much faster than `.Sort` and `.Aggregate()` mehtods.
+Now if we want to talk about LINQs. Sometimes they can be really helpful and easy to read, but it can not always make the performance better. And if we don't know the implementation of a LINQ function, so maybe it is better not to use it. For example in this simple algorithm, a simple `for` loop works much faster than `.Sum()` and `.Aggregate()` mehtods. Also the difference between these 2 LINQ methods, can be because of their structure. Every time that `.Aggregate()` is called two variables(like `ele1` and `ele2`) must be passed to it.
 
 ***
 ### The second assumption(Aysa)
@@ -241,7 +241,7 @@ public static void MeasureZahra()
 ```
 The final result(the colored columne showes the average time which has been use foreach algorithm):
 ![mine](../assets/images/zahra.png "ZSTA")
-As it is shown in the results, the first way is faster. Actually, there is not much difference
+As it is shown in the results, the first way is faster. Actually, there is not much difference between them, but as you can see, there is no need to pass the variable type in `.Create()` function.
 
 
 
