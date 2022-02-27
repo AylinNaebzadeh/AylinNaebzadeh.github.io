@@ -257,7 +257,7 @@ public static void MeasureZahra()
 }
 ```
 The final result(the colored columne showes the average time which has been use foreach algorithm):
-![mine](../assets/images/zahra.png "ZSTA")
+![mine](../assets/images/zahraT.png "ZSTA")
 As it is shown in the results, the first way is faster than the 2 other ways. The main result can be because of inner implementation of these 3 methods.
 
 
