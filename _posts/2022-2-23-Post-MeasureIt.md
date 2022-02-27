@@ -258,7 +258,7 @@ public static void MeasureZahra()
 ```
 The final result(the colored columne showes the average time which has been use foreach algorithm):
 ![mine](../assets/images/zahraT.png "ZSTA")
-As it is shown in the results, the first way is faster than the 2 other ways. The main result can be because of inner implementation of these 3 methods.
+As it is shown in the results, the first way is faster than the 2 other ways. The main result can be because of inner implementation of these 3 methods. There is also more explenation about this topic in this [link](https://stackoverflow.com/questions/498686/is-string-contains-faster-than-string-indexof).
 
 
 
