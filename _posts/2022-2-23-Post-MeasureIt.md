@@ -224,24 +224,41 @@ And as it's shown in the picture, `.Sort()` function is better than the `.OrderB
 
 ***
 ### The fifth assumption(Zahra)
-Zahra's idea was to check the difference between creating a new `Tuple`. She checked 2 ways. In the first algorithm, she used `new` keyword, but in the second one she used `.Create()`, which is a predefined function.
+Zahra's idea was to check the difference between `.Contain()`, `.IndexOf()` and `.Split()` predifined methods to find whether there is a certain string in a text or not.
 ```c#
 public static void MeasureZahra()
 {
-    timer1000.Measure("NewTuple", delegate
+    string text = "There is an old hawk in the sky. The sun is shining.";
+    string word = "is";
+    timer1000.Measure("string.Contain(word)", delegate
     {
-        Tuple<int,int> t1 = new Tuple<int,int>(5, 3);
+        bool find = false;
+        if(text.Contains(word))
+            find = true;
     });
 
-    timer1000.Measure("CreateTuple", delegate
+    timer1000.Measure("string.IndexOf(word)", delegate
     {
-        Tuple<int,int> t2 = Tuple.Create(1, 2);
+        bool find = false;
+        if(text.IndexOf(word) != -1)
+            find = true;
+    });
+    timer1000.Measure("SplitAndFind", delegate
+    {
+        string[] str = text.Split(" ").ToArray();
+        bool find = false;
+        for (int i = 0; i < str.Length; i++)
+        {
+            if(str[i].Equals(word))
+                find = true;
+        }
+
     });
 }
 ```
 The final result(the colored columne showes the average time which has been use foreach algorithm):
 ![mine](../assets/images/zahra.png "ZSTA")
-As it is shown in the results, the first way is faster. Actually, there is not much difference between them, but as you can see, there is no need to pass the variable type in `.Create()` function.
+As it is shown in the results, the first way is faster than the 2 other ways. 
 
 
 
