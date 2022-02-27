@@ -267,8 +267,8 @@ Here is a [link](https://docs.microsoft.com/en-us/archive/blogs/vancem/measureit
 
 ***
 Team members:
-- Aysa Mayahi nia
+- Aysa Mayahinia
 - Melika Mohammadi fakhar
-- Golbarg Sepehr ara
+- Golbarg Sepehrara
 - Zahra Tabatabaee
 - Aylin Naebzadeh
