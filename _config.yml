@@ -111,10 +111,6 @@ author:
   avatar           : "/assets/images/nicko.jpg"
   bio              : I am currently studying Computer Engineering at Iran University of Science and Technology (IUST). I am passionate about learning new things. During my BSc, I have endeavored to expand my knowledge across various computer science fields, including software development and artificial intelligence.
   location         : "Iran"
-  email            : aylin.naebzadeh@gmail.com
-  linkedin: Aylin Naebzadeh
-  google_scholar: Aylin Naebzadeh
-  github: AylinNaebzadeh
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
