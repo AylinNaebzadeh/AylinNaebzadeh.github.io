@@ -17,10 +17,11 @@ title: تجربه آزمون  تافل سوم شهریور 1403
 <p style="text-align: right; direction: rtl;">
 من از زمانی که 12 سالم بود کلاس زبان عمومی می‌رفتم ولی چون برای آزمون زمان محدودی داشتم فرصت کلاس و معلم و ... هم نبود. و همانطور که از تجربیات خیلیا شنیده بودم الان با وجود منابعی مثل یوتیوب و اینترنت واقعا شاید کلاس خیلی برای افرادی که سطح زبان متوسط رو به بالا دارند مفید نباشه و بیشتر موجب اتلاف وقت بشه. در ادامه نکاتم رو مورد به مورد بیان میکنم و امیدوارم  که برای شما نیز مفید باشند.
 </p>
-<h3 style="text-align: right; direction: rtl;">منابع</h2>
+<h3 style="text-align: right; direction: rtl;">منابع</h3>
 <p style="text-align: right; direction: rtl;">
 اصلی‌ترین منبعی که من داشتم سایت <a href="https://toefl.testhelper.ir/" style="text-align: right; direction: rtl;">testhelper </a> بود که نزدیک به 300 آزمون تافل مربوط به سال‌های گذشته رو داره. وقتی وارد سایت بشید سه بخش tpo، neo و zhenti رو مشاهده می‌کنید. من به دلیل کمبود وقت بخش خوانش و شنیداری رو از tpo و دو بخش دیگه رو از neo کار می‌کردم. چون طبق تجربیاتی که از بقیه داشتم tpoها منابع خوبی برای تمرین بودند.
-دررابطه با فرمت آزمون و استراتژی‌های آزمون یکسری فیلم در حد 5 ساعت از یوتیوب و magoosh دیدم.
+دررابطه با فرمت آزمون و استراتژی‌های آزمون یکسری فیلم در حد 5 ساعت از <a href="https://www.youtube.com/results?search_query=tst+prep+toefl" style="text-align: right; direction: rtl;">کانال یوتیوب TST Prep </a> و magoosh دیدم.
+اما مهم‌ترین منبعی که داشتم تجربیات دوستان عزیزم در گروه تلگرام <a href="https://t.me/joinchat/4wCvSfh7h81hNzU0" style="text-align: right; direction: rtl;">TOEFL Preparation</a> بود.
 </p>
 <h3>Reading</h3>
 <h3>Listening</h3>
