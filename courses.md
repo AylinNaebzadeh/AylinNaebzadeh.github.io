@@ -30,6 +30,10 @@ comments: false
 |----|------|--------------------------------|------------------|
 |2023|Fall| **Data Mining (Graduate)** |   20    | Dr. Hossein Rahmani |
 |----|------|--------------------------------|------------------|
+|2023|Fall| **Softwere Engineering** |   19.4    | Dr. Mehrdad Ashtiyani |
+|----|------|--------------------------------|------------------|
+|2023|Fall| **Fundamental of Data Science** |   20    | Dr. Hasan Naderi |
+|----|------|--------------------------------|------------------|
 |2024|Spring| **Natural Language Processing** |   17.75    | Dr. Marziyeh Davoodabadi |
 |----|------|--------------------------------|------------------|
 |2024|Spring| **Computer Vision** |   17.01    | Dr. Mohammadreza Mohammadi |
