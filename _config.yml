@@ -112,6 +112,9 @@ author:
   bio              : I am studying Computer Engineering at Iran University of Science and Technology (IUST). During my BSc, I have endeavored to expand my knowledge across various computer science fields, including software development and artificial intelligence.
   location         : "Iran"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:aylin.naebzadeh@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AylinNaebzadeh"
