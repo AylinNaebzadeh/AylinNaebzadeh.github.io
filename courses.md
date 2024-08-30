@@ -4,34 +4,27 @@ author_profile: true
 permalink: /courses/
 title: Courses
 tags: [Studying, courses]
-modified: 9-14-2019
+modified: 9-14-2024
 comments: false
 ---
 
 
-|           | **Current**                    |
-|----|------|--------------------------------|
-|2020|Fall  | **<a href="">Computer Workshop</a>**         |
-|----|------|--------------------------------|
-|2020|Fall  | **<a href="/ds98/">Introduction and recognition to the major</a>** |
-|----|------|--------------------------------|
-|2020|Fall  | **<a href="">Programing with computer</a>** |
 
 
-|           | **Past**                       |
-|----|------|--------------------------------|
-|2020|Winter| **<a href="/ad97/">Geommetry and Calculus</a>**         |
-|----|------|--------------------------------|
-|2020|Spring| **<a href="/ap97/">Physic - C#</a>** |
-|----|------|--------------------------------|
-|2019|Fall  | **<a href="/nlp97/">Chemistry</a>** |
-|----|------|--------------------------------|
-|2019|Fall  | **<a href="/ds97/">Arabic</a>**            |
-|----|------|--------------------------------|
-|2019|Fall  | **English - C#** |
-|----|------|--------------------------------------------|
-||  |  |
-|----|------|--------------------------------------------|
-|||             |
-|----|------|--------------------------------------------|
-|||  |
+|           | **Name**                       |**Score** |   **Instructor**  |
+|----|------|--------------------------------|----------|-------------------|
+|2020|Fall| **Fundamentals of Computer Programming**  |   17  |   Dr. Sauleh Eetemadi |
+|2021|Spring| **Advanced Programming**  |   20  |   Dr. Sauleh Eetemadi |
+|----|------|--------------------------------|------------------|
+|2021|Fall| **Data Structures** |   19    | Dr. Sauleh Eetemadi |
+|----|------|--------------------------------|------------------|
+|2022|Spring| **Algorithm Design**  |   20  |   Dr. Sauleh Eetemadi |
+|----|------|--------------------------------|------------------|
+|2022|Spring| **Database** |   19.1    | Dr. Hossein Rahmani |
+|----|------|--------------------------------|------------------|
+|2022|Spring| **Theory of Language and Automata**  |   19.3  |   Dr. Reza Entezari |
+|----|------|--------------------------------|------------------|
+|2023|Spring| **System Analysis and Design** |   17.4    | Dr. Mehrdad Ashtiyani |
+|----|------|--------------------------------|------------------|
+|2023|Spring| **Complex Dynamic Networks (Graduate)** |   19.5    | Dr. Hossein Rahmani |
+|----|------|--------------------------------|------------------|
