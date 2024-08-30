@@ -121,6 +121,12 @@ author:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
       url: "http://calendly.com/aylin-naebzadeh"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/aylin-naebzadeh-5b9284201/"  # Replace with your LinkedIn profile URL
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-user-graduate"  # Consider using an icon that represents academic research or a similar symbol
+      url: "https://scholar.google.com/citations?user=DihThGwAAAAJ&hl=en"  # Replace with your Google Scholar profile URL
 
 # Site Footer
 footer:
