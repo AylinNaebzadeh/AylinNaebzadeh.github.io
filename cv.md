@@ -9,9 +9,9 @@ comments: false
 ---
 
 
-|    |    | **Experience** | **Description** | **Company** |
+|  **Start**  |  **End**  | **Experience** | **Description** | **Company** |
 |----|----|-------------------------------------------------------------------------------|
-|2023 | now| **Research Assistant** | I am currently working as a RA under the supervision of Dr. Sauleh Eetemadi, and mentored by Sadegh Jafari. My research is mainly focused on text mining and text classification, sepecially on posts from social media.
+|2023 | now | **Research Assistant** | I am currently working as a RA under the supervision of Dr. Sauleh Eetemadi, and mentored by Sadegh Jafari. My research is mainly focused on text mining and text classification, sepecially on posts from social media.
 * Passing several courses on machine learning, NLP, etc.
 * Working with famous ML libraries, such as Keras, Pytorch, HuggingFace, etc.
 * Working with Kaggle and Colab as main infrastructures for code developing.
@@ -32,7 +32,7 @@ comments: false
 * Advanced Programming, Dr. Sauleh Eetemadi
 * Fundamentals of Computer Programming, Dr. Sauleh Eetemadi
 * Discrete Mathematics, Dr. Vesal Hakami  | IUST |
-|----|------|-------------------------------------------------------------------------------|
+|----|------|-------------------------------------------------------------------------------|-------|
 
 
 
