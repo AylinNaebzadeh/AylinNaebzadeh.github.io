@@ -9,30 +9,12 @@ comments: false
 ---
 
 
-|  **Start**  |  **End**  | **Experience** | **Description** | **Company** |
-|----|----|-------------------------------------------------------------------------------|
-|2023 | now | **Research Assistant** | I am currently working as a RA under the supervision of Dr. Sauleh Eetemadi, and mentored by Sadegh Jafari. My research is mainly focused on text mining and text classification, sepecially on posts from social media.
-* Passing several courses on machine learning, NLP, etc.
-* Working with famous ML libraries, such as Keras, Pytorch, HuggingFace, etc.
-* Working with Kaggle and Colab as main infrastructures for code developing.
-* Participation in Conference and Labs of the Evaluation Forum (CLEF) 2024, and publishing two papers in EXIST and QuantumCLEF labs.
-* Working on Psychology chatbot project.  | NLP Lab at IUST |
-|----|----|-------------------------------------------------------------------------------|
-|2022 |2024| **Backend Developer** | I have been working as a developer in backend team of spatio-temporal data analysis project (Sepanta) under the supervision of Dr. Hossein Rahamni, and mentored by Fatemeh Rezaeian and Mohammad Aqajani. My teammates and I developed several modules using Python and Django framwork as our main stack. My main tasks and used technologies were as follow:
-* API development, testing (Pytest, Playwright) and documenting (Swagger, Postman).
-* Perform stress testing using JMeter.
-* Retrieving data by querying to MySQL (our legacy database).
-* Working with Elasticsearch and updating some functions and APIs.
-* Code refactoring.
-* Log management. | Adavanced Big Data Analysis Laboratory (ABDAL) |
-|----|------|-------------------------------------------------------------------------------|
-|2021 | 2023  | **Teaching Assistant** | I have been working as a TA and mentor for several courses including:
-* System Analysis and Design, Dr. Mehrdad Ashtiyani
-* Data Structures, Dr. Hossein Rahmani
-* Advanced Programming, Dr. Sauleh Eetemadi
-* Fundamentals of Computer Programming, Dr. Sauleh Eetemadi
-* Discrete Mathematics, Dr. Vesal Hakami  | IUST |
-|----|------|-------------------------------------------------------------------------------|-------|
+| **Start** | **End** | **Experience**         | **Description**                                                                                                                                                                                                                                                             | **Company**                             |
+|-----------|---------|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| 2023      | now     | **Research Assistant** | I am currently working as a RA under the supervision of Dr. Sauleh Eetemadi, and mentored by Sadegh Jafari. My research is mainly focused on text mining and text classification, especially on posts from social media. <br> • Passing several courses on machine learning, NLP, etc. <br> • Working with famous ML libraries, such as Keras, Pytorch, HuggingFace, etc. <br> • Working with Kaggle and Colab as main infrastructures for code developing. <br> • Participation in Conference and Labs of the Evaluation Forum (CLEF) 2024, and publishing two papers in EXIST and QuantumCLEF labs. <br> • Working on Psychology chatbot project. | NLP Lab at IUST                        |
+| 2022      | 2024    | **Backend Developer**  | I have been working as a developer in the backend team of spatio-temporal data analysis project (Sepanta) under the supervision of Dr. Hossein Rahamni, and mentored by Fatemeh Rezaeian and Mohammad Aqajani. My teammates and I developed several modules using Python and Django framework as our main stack. My main tasks and used technologies were as follows: <br> • API development, testing (Pytest, Playwright) and documenting (Swagger, Postman). <br> • Perform stress testing using JMeter. <br> • Retrieving data by querying MySQL (our legacy database). <br> • Working with Elasticsearch and updating some functions and APIs. <br> • Code refactoring. <br> • Log management. | Advanced Big Data Analysis Laboratory (ABDAL) |
+| 2021      | 2023    | **Teaching Assistant** | I have been working as a TA and mentor for several courses including: <br> • System Analysis and Design, Dr. Mehrdad Ashtiyani <br> • Data Structures, Dr. Hossein Rahmani <br> • Advanced Programming, Dr. Sauleh Eetemadi <br> • Fundamentals of Computer Programming, Dr. Sauleh Eetemadi <br> • Discrete Mathematics, Dr. Vesal Hakami | IUST                                   |
+
 
 
 
