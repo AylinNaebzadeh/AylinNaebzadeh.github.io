@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Some advice of prosper people
+title: Some advice from prosper people
 ---
 
 ## During the lastweek I have talked with some of the best people I have ever seen:),but the most positive point is that they have studied or studying at IUST.
