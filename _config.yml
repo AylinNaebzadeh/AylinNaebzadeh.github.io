@@ -109,33 +109,19 @@ analytics:
 author:
   name             : "Aylin Naebzadeh"
   avatar           : "/assets/images/nicko.jpg"
-  bio              : I'm studying cumputer engineering at IUST.
+  bio              : I am currently studying Computer Engineering at Iran University of Science and Technology (IUST). I am passionate about learning new things. During my BSc, I have endeavored to expand my knowledge across various computer science fields, including software development and artificial intelligence.
   location         : "Iran"
   email            : aylin.naebzadeh@gmail.com
-  twitter: 
   linkedin: Aylin Naebzadeh
-  google_scholar: Q25s5KkAAAAJ
+  google_scholar: Aylin Naebzadeh
   github: AylinNaebzadeh
-  instagram: 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: aylin.naebzadeh@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/AylinNaebzadeh"
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
       url: "http://calendly.com/aylin-naebzadeh"
