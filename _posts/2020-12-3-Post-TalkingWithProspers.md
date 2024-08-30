@@ -1,17 +1,16 @@
 ---
 layout: posts
-title: Recommendations of prosper people(they are studying at IUST or have finished studying)
+title: Some advice of prosper people
 ---
 
 ## During the lastweek I have talked with some of the best people I have ever seen:),but the most positive point is that they have studied or studying at IUST.
 People I have talked with:
-- Miss Mina Tahaei
-- Miss Zahra Hajihashemi
+-  Mina Tahaei
+-  Zahra Hajihashemi
 
 
-[my favorite website](http://m.youtube.com)
 
-Miss Mina Tahaei
+ Mina Tahaei
 
 Since I was studying at junior high school I had a great appeal to computer and programming , from that time I heve recognized what I want . Now I'm studying in seventh semester and don't have any compunction of my selection.
 
@@ -28,10 +27,11 @@ Your degree is really consiquential for migration and to be hired having BA is n
 As a conclusion take serious your lessons from the first , don't pay attension to lazy people and who just complane and nag at everything . fortunatly IUST has great facilities and you can try whole of the fields of your major and then become professional in it . For example I really like designing games and mobile apps . You can also find your desire and fallow. 
 
 
-************************************************************************
+___
 
 
-Miss Zahra Hajihashemi
+
+ Zahra Hajihashemi
 
 After gettiing MA I have decided to migrat for PhD degree in order that American and European universities are much ahead of Iranian ones in computer science and they push the boundaries of knowledge and technology by doing projects .
 

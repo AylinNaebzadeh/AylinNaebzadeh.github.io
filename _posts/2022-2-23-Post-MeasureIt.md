@@ -3,7 +3,7 @@ layout: posts
 title: MeasureIt
 ---
 
-## Tool for doing MicroBenchmarks for .Net
+## Tool for MicroBenchmarks for .Net
 
 During the last term, when we were implementing many functions and doing our programming homework for DataStructure course, we faced with the below error for several times. 
 ```c#
