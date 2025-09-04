@@ -29,4 +29,4 @@ title: About me
 
 
 #### Recreational Activities
-* Listening to light music, delving into historical dramas and memorizing monarchs’ reigns around the world, and above all, playing with my amazing [parrots](https://AylinNaebzadeh.github.io/img/my_babies.jpg) (literally my kids 🥰)
+* Listening to light music, delving into historical dramas and memorizing monarchs’ reigns around the world, cooking and learning new food recips 🍽, and above all, playing with my amazing [parrots](https://AylinNaebzadeh.github.io/img/my_babies.jpg) (literally my kids 🥰)
