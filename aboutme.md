@@ -1,16 +1,32 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+#### Research Interest
+* Natural Language Processing / Artificial Intelligence
+* Data Mining / Machine Learning
+* My primary interest lies at the intersection of AI and other domains, where I focus on developing tools and models that empower people across various fields. I am also enthusiastic about creating benchmarks and datasets for low-resource areas to advance research and accessibility.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+#### Academic Background
 
-What else do you need?
 
-### My story
+* BSc in Computer Engineering (October 2020 - September 2024) 
+  - I have got BSc degree in Computer Engineering from Iran University of Science and Technology under supervision of [Dr. Sauleh Eetemadi](https://scholar.google.com/citations?hl=en&user=Q25s5KkAAAAJ&view_op=list_works)
+  
+* Pre-University and High School (September 2016 - June 2020)
+  - I have studied in Farzanegan high-school, National Organization for Development of Exceptional Talent
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+  
+#### Contact Information
+
+* email: 
+  - <aylin_dot_naebzadeh_at_gmail_dot_com>
+
+#### Resume
+* you can download my [CV](https://AylinNaebzadeh.github.io/docs/Resume.pdf) here
+
+
+#### Recreational Activities
+* Listening to light music, delving into historical dramas and memorizing monarchs’ reigns around the world, and above all, playing with my amazing [parrots](https://AylinNaebzadeh.github.io/img/my_babies.jpg) (literally my kids 🥰)
