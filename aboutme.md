@@ -22,7 +22,7 @@ title: About me
 #### Contact Information
 
 * email: 
-  - <aylin_dot_naebzadeh_at_gmail_dot_com>
+  - <aylin.naebzadeh@gmail.com>
 
 #### Resume
 * you can download my [CV](https://AylinNaebzadeh.github.io/docs/Resume.pdf) here
