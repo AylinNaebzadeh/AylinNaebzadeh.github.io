@@ -9,7 +9,7 @@
       <span style="margin-top: 0.2em; display: inline-block;">
         <!-- Status badge -->
         {% assign status_color = "blue" %}
-        {% if pub.status == "Published" %}{% assign status_color = "green" %}{% endif %}
+        {% if pub.status == "Published" %}{% assign status_color = "blue" %}{% endif %}
         {% if pub.status == "Submitted" %}{% assign status_color = "orange" %}{% endif %}
         {% if pub.status == "To be Published" %}{% assign status_color = "yellow" %}{% endif %}
         <img src="https://img.shields.io/badge/status-{{ pub.status | replace: ' ', '%20' }}-{{ status_color }}" alt="{{ pub.status }}" style="margin-right: 0.3em; vertical-align: middle;">
