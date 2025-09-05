@@ -5,7 +5,7 @@ title: Publication
 ---
 {% include publications.html %}
 
-- title: "NICA at EXIST CLEF Tasks 2024"
+<!-- - title: "NICA at EXIST CLEF Tasks 2024"
 status: "Published"
 venue: "15th Proceedings of the Conference and Labs of the Evaluation Forum, France"
 date: "July 2024"
@@ -48,4 +48,4 @@ venue: "The 31th International Conference on Computational Linguistics, Abu Dhab
 date: "November 2025"
 authors: "A. Naebzadeh, S. Eetemadi"
 github: "GitHub link here"
-
+ -->
