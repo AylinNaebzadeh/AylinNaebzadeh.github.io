@@ -4,9 +4,47 @@ title: Publication
 
 ---
 
-* Kiarash Aghakasiri, Farnaz Kohankhaki, Hongming Zhang, Ting-Han Wei, Chao Gao, and Martin Müller. Monte Carlo Tree Search in the Presence of Transition Uncertainty. AAAI, 2024
-* Bahador Rashidi, Kiarash Aghakasiri, Chao Gao, Shuting Zhang, Yue Zhang, Ying Liu, and Fengyu Sun. A Multi-Scale Objective Function for Camera Color Correction. Under Review: ICASSP, 2024.
-* Bahador Rashidi, Shan Lu, Kiarash Aghakasiri, Chao Gao, Fred Xuefei Han, Zhisheng Wang, Laiyuan Gong and Fengyu Sun. CASCO: Cascaded Co-Optimization for Holistic Neural Network Acceleration. DATE, 2024.
-* Chao Gao, Saqib Ameen, Zeyi Wang, Shan Lu, Kiarash Aghakasiri, Xin Huang, Yijun Feng, Fengyu Sun. Genetic Monte Carlo Tree Search for Stochastic Sequence
-Optimization with Application for Compiler Optimization. (Under Review: ICAPS, 2024)
-* Fatemeh Karimkhani, Hossein Rahmani, Arezoo Zare, Raana Sahebnassagh, and Kiarash Aghakasiri. Tarvajeh: Word Association Norms for Persian Words. Journal of Psycholinguistic Research (2021): 1-20.
+- title: "NICA at EXIST CLEF Tasks 2024"
+status: "Published"
+venue: "15th Proceedings of the Conference and Labs of the Evaluation Forum, France"
+date: "July 2024"
+authors: "A. Naebzadeh, M. Nobakhtian, S. Eetemadi"
+doi: "DOI link here"
+github: "GitHub link here"
+
+- title: "NICA at Quantum Computing CLEF Tasks 2024"
+status: "Published"
+venue: "15th Proceedings of the Conference and Labs of the Evaluation Forum, France"
+date: "July 2024"
+authors: "A. Naebzadeh, S. Eetemadi"
+doi: "DOI link here"
+
+- title: "MultiCGCN: Multi-Label Text Classification using GCNs and Heterogeneous Graphs"
+status: "Published"
+venue: "International Journal of Web Research"
+date: "December 2024"
+authors: "M. Allahgholi, H. Rahmani, P. Soltanzadeh, A. Naebzadeh"
+doi: "DOI link here"
+github: "GitHub link here"
+
+- title: "GinGer at SemEval-2025 Task 11: Leveraging Fine-Tuned Transformer Models and LoRA for Sentiment Analysis in Low-Resource Languages"
+status: "Published"
+venue: "The 19th International Workshop on Semantic Evaluation, Vienna, Austria"
+date: "April 2025"
+authors: "A. Naebzadeh, F. Askari"
+github: "GitHub link here"
+
+- title: "GinGer at SemEval-2025 Task 2: Challenges in Entity-Aware Machine Translation with Fine-Tuning and Zero-Shot Prompting"
+status: "Submitted"
+venue: "The 19th International Workshop on Semantic Evaluation, Vienna, Austria"
+date: "April 2025"
+authors: "A. Naebzadeh"
+github: "GitHub link here"
+
+- title: "Exploiting Geoffrey Hinton’s Knowledge Graph: Building a Hybrid RAG Agent for Interactive Communication"
+status: "Submitted"
+venue: "The 31th International Conference on Computational Linguistics, Abu Dhabi, UAE"
+date: "November 2025"
+authors: "A. Naebzadeh, S. Eetemadi"
+github: "GitHub link here"
+
