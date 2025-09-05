@@ -3,6 +3,7 @@ layout: page
 title: Publication
 
 ---
+{% include publications.html %}
 
 - title: "NICA at EXIST CLEF Tasks 2024"
 status: "Published"

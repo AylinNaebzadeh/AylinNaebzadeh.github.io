@@ -1,0 +1,29 @@
+<div class="publications">
+  {% for pub in site.data.publications %}
+    <div class="publication">
+      <h3>{{ pub.title }}</h3>
+      <p><strong>Authors:</strong> {{ pub.authors }}</p>
+      <p><strong>Venue:</strong> {{ pub.venue }} ({{ pub.date }})</p>
+
+      <!-- Badges -->
+      <p>
+        <!-- Status badge -->
+        <img src="https://img.shields.io/badge/status-{{ pub.status | replace: ' ', '%20' }}-blue" alt="{{ pub.status }}">
+
+        <!-- DOI badge -->
+        {% if pub.doi %}
+          <a href="{{ pub.doi }}" target="_blank">
+            <img src="https://img.shields.io/badge/DOI-Link-green" alt="DOI">
+          </a>
+        {% endif %}
+
+        <!-- GitHub badge -->
+        {% if pub.github %}
+          <a href="{{ pub.github }}" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub">
+          </a>
+        {% endif %}
+      </p>
+    </div>
+  {% endfor %}
+</div>
