@@ -27,7 +27,7 @@ abstract: >
   Emotion recognition is a crucial task in natural language processing, particularly in the domain of multi-label emotion classification, where a single text can express multiple emotions with varying intensities. In this work, we participated in Task 11, Track A and Track B of the SemEval-2025 competition, focusing on emotion detection in low-resource languages. Our approach leverages transformer-based models combined with parameter-efficient fine-tuning (PEFT) techniques to effectively address the challenges posed by data scarcity. We specifically applied our method to multiple languages and achieved 9th place in the Arabic Algerian track among 40 competing teams. Our results demonstrate the effectiveness of PEFT in improving emotion recognition performance for low-resource languages. The code for our implementation is publicly available at: https://github.com/AylinNaebzadeh/Text-Based-Emotion-Detection-SemEval-2025.
   </div>
 
-publication: '*ACL*'
+publication: '*Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025), Vienna, Austria*'
 links:
 - name: DOI
   url: https://aclanthology.org/2025.semeval-1.263/
