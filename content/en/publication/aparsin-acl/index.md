@@ -6,8 +6,8 @@ authors:
 - Collaboration among 23 authors.
 tags: []
 categories: []
-date: '2025-01-01'
-lastmod: 2025-01-01T00:00:00-04:00
+date: '2026-03-01'
+lastmod: 2026-03-01T00:00:00-04:00
 featured: false
 draft: false
 
@@ -26,7 +26,7 @@ abstract: >
   The Iranic language family includes many underrepresented languages and dialects that remain largely unexplored in modern NLP research. We introduce APARSIN, a multi-variety benchmark covering 14 Iranic languages, dialects, and accents, designed for sentiment analysis and machine translation. The dataset includes both high and low-resource varieties, several of which are endangered, capturing linguistic variation across them. We evaluate a set of instruction-tuned Large Language Models (LLMs) on these tasks and analyze their performance across the varieties. Our results highlight substantial performance gaps between standard Persian and other Iranic languages and dialects, demonstrating the need for more inclusive multilingual and dialectally diverse NLP benchmarks.
   </div>
 
-publication: '*The Proceedings of the First Workshop on NLP and LLMs for the Iranian Language Family*'
+publication: '*The Proceedings of the First Silkroad Workshop, EACL, Rabat, Morocco*'
 links:
 - name: DOI
   url: https://aclanthology.org/2026.silkroadnlp-1.9/
