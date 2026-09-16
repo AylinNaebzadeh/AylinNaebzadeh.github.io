@@ -1,0 +1,173 @@
+{{- define "main" -}}
+
+<article class="article article-publication">
+
+  <div class="article-container">
+
+    <!-- Title -->
+    <header class="article-header">
+      <h1 class="article-title">
+        {{ .Title }}
+      </h1>
+
+      <!-- Authors -->
+      {{ with .Params.authors }}
+      <div class="article-authors">
+        {{ range $index, $author := . }}
+          {{ if $index }}, {{ end }}
+          <span>{{ $author }}</span>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      <!-- Publication information -->
+      {{ with .Params.publication }}
+      <div class="article-publication">
+        {{ . | markdownify }}
+      </div>
+      {{ end }}
+
+      <!-- Date -->
+      {{ with .Date }}
+      <div class="article-date">
+        {{ . | time.Format ":date_long" }}
+      </div>
+      {{ end }}
+
+    </header>
+
+    <!-- Abstract -->
+    {{ with .Params.abstract }}
+    <div class="article-abstract">
+      <h2>{{ i18n "abstract" | default "Abstract" }}</h2>
+      <div class="justify-text">
+        {{ . | safeHTML }}
+      </div>
+    </div>
+    {{ end }}
+
+    <!-- Main content -->
+    <div class="article-style">
+      {{ .Content }}
+    </div>
+
+    <!-- Links -->
+    {{ with .Params.links }}
+    <div class="article-links">
+      {{ range . }}
+        <a
+          class="btn btn-outline-primary"
+          href="{{ .url }}"
+          target="_blank"
+          rel="noopener"
+        >
+          {{ .name }}
+        </a>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <!-- Related projects -->
+    <div class="project-related-pages content-widget-hr">
+      {{ $page := . }}
+      {{ $project := .File.ContentBaseName }}
+
+      {{ $items := where (where site.RegularPages "Type" "post") ".Params.projects" "intersect" (slice $project) }}
+      {{ $count := len $items }}
+
+      {{ if ge $count 1 }}
+        <h2>{{ i18n "posts" }}</h2>
+
+        {{ range $index, $item := $items }}
+          {{ partial "functions/render_view" (dict
+            "page" $
+            "item" .
+            "view" (site.Params.projects.post_view | default "compact")
+            "index" $index
+          ) }}
+        {{ end }}
+      {{ end }}
+
+      {{ $items := where (where site.RegularPages "Type" "publication") ".Params.projects" "intersect" (slice $project) }}
+      {{ $pubs_len := len $items }}
+
+      {{ if ge $pubs_len 1 }}
+        <h2>{{ i18n "publications" }}</h2>
+
+        {{ range $index, $item := $items }}
+          {{ partial "functions/render_view" (dict
+            "page" $
+            "item" .
+            "view" (site.Params.projects.publication_view | default "compact")
+            "index" $index
+          ) }}
+        {{ end }}
+      {{ end }}
+
+      {{ $items := where (where site.RegularPages "Type" "event") ".Params.projects" "intersect" (slice $project) }}
+      {{ $talks_len := len $items }}
+
+      {{ if ge $talks_len 1 }}
+        <h2>{{ i18n "talks" }}</h2>
+
+        {{ range $index, $item := $items }}
+          {{ partial "functions/render_view" (dict
+            "page" $
+            "item" .
+            "view" (site.Params.projects.talk_view | default "compact")
+            "index" $index
+          ) }}
+        {{ end }}
+      {{ end }}
+    </div>
+
+  </div>
+
+</article>
+
+<style>
+  .article-title {
+    margin-bottom: 0.75rem;
+  }
+
+  .article-authors {
+    margin-bottom: 1rem;
+    font-size: 1.05rem;
+  }
+
+  .article-publication {
+    margin-bottom: 0.75rem;
+    font-style: italic;
+  }
+
+  .article-date {
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+    opacity: 0.75;
+  }
+
+  .article-abstract {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .article-abstract h2 {
+    margin-bottom: 1rem;
+  }
+
+  .justify-text {
+    text-align: justify;
+  }
+
+  .article-links {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .article-links .btn {
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+</style>
+
+{{- end -}}
