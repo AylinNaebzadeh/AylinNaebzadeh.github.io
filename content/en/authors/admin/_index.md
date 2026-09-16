@@ -7,8 +7,9 @@ bio:
 
 interests:
   - Software Developing
-  - Computer Vision and Natural Language Processing
+  - Natural Language Processing
   - Data Mining
+  - Computer Vision
   
 # Social/Academic Networking
 # For available general icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
