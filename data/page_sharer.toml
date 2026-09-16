@@ -3,7 +3,7 @@
 
 [[buttons]]
   id = "email"
-  url = "mailto:Aylin.Naebzadeh@email.ucr.edu"
+  url = "mailto:aylin.naebzadeh@gmail.com"
   title = "Email"
   icon_pack = "fas"
   icon = "envelope"
@@ -11,7 +11,7 @@
 
 [[buttons]]
   id = "linkedin"
-  url = "https://www.linkedin.com/in/Aylin-Naebzadeh/"
+  url = "https://www.linkedin.com/in/aylinnaebzadeh/"
   title = "LinkedIn"
   icon_pack = "fab"
   icon = "linkedin-in"

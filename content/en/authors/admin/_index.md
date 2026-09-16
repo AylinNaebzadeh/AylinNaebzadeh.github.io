@@ -56,7 +56,7 @@ email: ""
 <div style="text-align: justify;">
 
 
-Hi, I'm Aylin, a Software Developer at Secure eResearch Platform at Swansea, UK, with +3 years of experience in academic and industrial projects in different domains including software eng, data mining, and NLP. I'm currently M.Sc. student in AI and Data Science at the University of Hull and collaborating with East Riding Yorkshire Council as part of my thesis on building an agentic-AI voice chatbot to classify customers' telephone calls using Local Government Classification Scheme.
+Hi, I'm Aylin, a Software Developer at Secure eResearch Platform at Swansea, UK, with +3 years of experience in academic and industrial projects across different domains including software eng, data mining, and NLP. I'm currently M.Sc. student in AI and Data Science at the University of Hull and collaborating with East Riding Yorkshire Council as part of my thesis on build an agentic-AI voice chatbot to classify customers telephone calls automatically with respect to Local Government Classification Scheme.
 
 Previously, I graduated with a B.Sc. in Computer Eng and worked as a Backend Developer for ~2 years on two separate projects: a platform for spatio-temporal data analysis, and financial data analysis from a Payment-Service-Provider (PSP) system. I also worked as NLP research assistant and had this chance to collaborate with different teams. Recently, I had collaboration with Cohere Labs on "Multicultural Multilingual Riddles" project to benchmark LLMs ability in finding riddles answers.
 
