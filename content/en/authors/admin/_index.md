@@ -56,11 +56,9 @@ email: ""
 <div style="text-align: justify;">
 
 
-Hi, I'm Aylin, a Computer Science PhD Candidate at the University of California, Riverside, where I work in the [Vision and Learning Group](https://vcg.ece.ucr.edu/) and CODE Lab, advised by Professors [Amit K. Roy-Chowdhury](https://vcg.ece.ucr.edu/amit) and [Vishwanath Saragadam](https://vishwa91.github.io/). I'm currently a Machine Learning Research Intern at <span style="color: #d76bc3;">Apple </span> in Cupertino, CA.
+Hi, I'm Aylin, a Software Developer at Secure eResearch Platform at Swansea, UK, with +3 years of experience in academic and industrial projects in different domains including software eng, data mining, and NLP. I'm currently M.Sc. student in AI and Data Science at the University of Hull and collaborating with East Riding Yorkshire Council as part of my thesis on building an agentic-AI voice chatbot to classify customers' telephone calls using Local Government Classification Scheme.
 
-Before UCR, I completed my B.Sc. in Computer Engineering at Iran University of Science and Technology, where I was admitted with a top 0.07% rank (293 out of 400,000+ participants) in Iran's National University Entrance Exam.
-
-My research interests span computer vision, image processing, NLP, and robust machine learning, with a general focus on making AI systems more reliable in real-world settings. During my Ph.D., I have worked on improving the stability and quality of image restoration methods based on diffusion models, and I have explored how multimodal learning systems behave when some inputs are missing or unreliable. I also have experience with 3D reconstruction and neural rendering, including camera pose estimation and modern radiance-field methods. I’m motivated by problems at the intersection of visual understanding, generative modeling, and trustworthy AI. Beyond my research, I enjoy playing the piano and reading novels!
+Previously, I graduated with a B.Sc. in Computer Eng and worked as a Backend Developer for ~2 years on two separate projects: a platform for spatio-temporal data analysis, and financial data analysis from a Payment-Service-Provider (PSP) system. I also worked as NLP research assistant and had this chance to collaborate with different teams. Recently, I had collaboration with Cohere Labs on "Multicultural Multilingual Riddles" project to benchmark LLMs ability in finding riddles answers.
 
 <!-- During my PhD, I am working on the [GRASP](http://grasp.cs.ucr.edu/) project in the Computer Architecture and Programming Systems (GRASP) Lab.
  -->
