@@ -1,0 +1,16 @@
+# IDEs
+.idea/
+
+# Local toolchain (pinned hugo binary)
+.tools/
+
+# Hugo
+resources/
+public/
+jsconfig.json
+node_modules/
+go.sum
+.hugo_build.lock
+content/en/publication/.DS_Store
+content/en/publication/.DS_Store
+content/en/.DS_Store
