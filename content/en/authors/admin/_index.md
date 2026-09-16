@@ -6,10 +6,9 @@ role: Software Developer at SeRP, Population Data Science Swansea
 bio:
 
 interests:
-  - Diffusion Models for Generation and Restoration
-  - Robust and Trustworthy Machine Learning
+  - Software Developing
   - Computer Vision and Natural Language Processing
-  - 3D Reconstruction and Rendering
+  - Data Mining
   
 # Social/Academic Networking
 # For available general icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -19,32 +18,32 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:Aylin.Naebzadeh@email.ucr.edu
+    link: mailto:aylin.naebzadeh@gmail.com
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=so4VH4IAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=DihThGwAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/AylinNaebzadeh/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/Aylin-Naebzadeh/
+    link: https://www.linkedin.com/in/aylinnaebzadeh/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: University of California, Riverside
-    url: https://www.ucr.edu/
+  - name: Secure eResearch Platform
+    url: https://serp.ac.uk/
     
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Computer Science
-      institution: University of California, Riverside
+    - course: M.Sc. in AI and Data Science
+      institution: University of Hull, UK
       year: Present
-    - course: B.Sc in Computer Engineering
-      institution: Iran University of Science and Technology
-      year: 2023
+    - course: B.Sc. in Computer Engineering
+      institution: University of Science and Technology
+      year: 2020-2024
 superuser: true
 status:
   icon: ☕️
