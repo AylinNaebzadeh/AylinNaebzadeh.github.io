@@ -16,15 +16,15 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: Aylin.Naebzadeh@email.ucr.edu
+  email: aylin.naebzadeh@gmail.com
   phone: 
   address:
     street:
-    city: California
-    region: USA
+    city: Kingston Upon Hull
+    region: Yorkshire
     postcode:
-    country: USA
-    country_code: USA
+    country: UK
+    country_code: UK
   coordinates:
     latitude: 
     longitude: 

@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2026} Aylin Naebzadeh. This website is built using [Hugo](https://gohugo.io/) and [Wowchemy](https://wowchemy.com/). '
+    notice: '© 2026 Aylin Naebzadeh. This website is built using [Hugo](https://gohugo.io/) and [Wowchemy](https://wowchemy.com/). '
     license:
       enable: true
       allow_derivatives: false
