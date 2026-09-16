@@ -3,7 +3,7 @@
 
 [[buttons]]
   id = "email"
-  url = "mailto:niki.nezakati@email.ucr.edu"
+  url = "mailto:Aylin.Naebzadeh@email.ucr.edu"
   title = "Email"
   icon_pack = "fas"
   icon = "envelope"
@@ -11,7 +11,7 @@
 
 [[buttons]]
   id = "linkedin"
-  url = "https://www.linkedin.com/in/niki-nezakati/"
+  url = "https://www.linkedin.com/in/Aylin-Naebzadeh/"
   title = "LinkedIn"
   icon_pack = "fab"
   icon = "linkedin-in"
@@ -19,7 +19,7 @@
 
 [[buttons]]
   id = "github"
-  url = "https://github.com/nikinezakati/"
+  url = "https://github.com/AylinNaebzadeh/"
   title = "GitHub"
   icon_pack = "fab"
   icon = "github"

@@ -1,6 +1,6 @@
 ---
-title: Niki Nezakati
-role: CS PhD Candidate
+title: Aylin Naebzadeh
+role: Software Developer at SeRP, Population Data Science Swansea
   
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -19,16 +19,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:niki.nezakati@email.ucr.edu
+    link: mailto:Aylin.Naebzadeh@email.ucr.edu
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=so4VH4IAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/nikinezakati/
+    link: https://github.com/AylinNaebzadeh/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/niki-nezakati/
+    link: https://www.linkedin.com/in/Aylin-Naebzadeh/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -48,16 +48,16 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Nezakati
+last_name: Naebzadeh
 highlight_name: true
-first_name: Niki
+first_name: Aylin
 email: ""
 ---
 
 <div style="text-align: justify;">
 
 
-Hi, I'm Niki, a Computer Science PhD Candidate at the University of California, Riverside, where I work in the [Vision and Learning Group](https://vcg.ece.ucr.edu/) and CODE Lab, advised by Professors [Amit K. Roy-Chowdhury](https://vcg.ece.ucr.edu/amit) and [Vishwanath Saragadam](https://vishwa91.github.io/). I'm currently a Machine Learning Research Intern at <span style="color: #d76bc3;">Apple </span> in Cupertino, CA.
+Hi, I'm Aylin, a Computer Science PhD Candidate at the University of California, Riverside, where I work in the [Vision and Learning Group](https://vcg.ece.ucr.edu/) and CODE Lab, advised by Professors [Amit K. Roy-Chowdhury](https://vcg.ece.ucr.edu/amit) and [Vishwanath Saragadam](https://vishwa91.github.io/). I'm currently a Machine Learning Research Intern at <span style="color: #d76bc3;">Apple </span> in Cupertino, CA.
 
 Before UCR, I completed my B.Sc. in Computer Engineering at Iran University of Science and Technology, where I was admitted with a top 0.07% rank (293 out of 400,000+ participants) in Iran's National University Entrance Exam.
 

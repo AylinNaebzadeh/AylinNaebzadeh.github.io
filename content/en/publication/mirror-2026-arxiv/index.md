@@ -5,7 +5,7 @@ title: 'CARD: Correlation Aware Restoration with Diffusion'
 subtitle: ''
 summary: ''
 authors:
-  - Niki Nezakati
+  - Aylin Naebzadeh
   - Arnab Ghosh
   - Amit Roy-Chowdhury
   - Vishwanath Saragadam
@@ -43,7 +43,7 @@ publication: '*Proceedings of the IEEE/CVF Conference on Computer Vision and Pat
 
 links:
   - name: PDF
-    url: https://openaccess.thecvf.com/content/CVPR2026/papers/Nezakati_CARD_Correlation_Aware_Restoration_with_Diffusion_CVPR_2026_paper.pdf
+    url: https://openaccess.thecvf.com/content/CVPR2026/papers/Naebzadeh_CARD_Correlation_Aware_Restoration_with_Diffusion_CVPR_2026_paper.pdf
   - name: DOI
     url: https://arxiv.org/abs/2512.05268
 ---

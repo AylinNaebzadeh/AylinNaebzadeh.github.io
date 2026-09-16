@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
   - Vishwanath Saragadam
-  - Niki Nezakati
+  - Aylin Naebzadeh
   - Amit Roy-Chowdhury
   - Vivek Boominathan
 tags: []

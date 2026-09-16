@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Personal website of Niki Nezakati.'
+    description: 'Personal website of Aylin Naebzadeh.'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2025} Niki Nezakati. This website is built using [Hugo](https://gohugo.io/) and [Wowchemy](https://wowchemy.com/). '
+    notice: '© {2026} Aylin Naebzadeh. This website is built using [Hugo](https://gohugo.io/) and [Wowchemy](https://wowchemy.com/). '
     license:
       enable: true
       allow_derivatives: false

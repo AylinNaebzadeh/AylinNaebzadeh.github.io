@@ -4,7 +4,7 @@ subtitle: ''
 summary: ''
 authors:
 - Md Kaykobad Reza
-- Niki Nezakati
+- Aylin Naebzadeh
 - Ameya Patil
 - Mashhour Solh
 - M. Salman Asif

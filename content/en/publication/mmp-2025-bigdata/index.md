@@ -5,7 +5,7 @@ title: 'MMP: Towards robust multi-modal learning with masked modality projection
 subtitle: ''
 summary: ''
 authors:
-  - Niki Nezakati
+  - Aylin Naebzadeh
   - Md Kaykobad Reza
   - Ameya Patil
   - Mashhour Solh

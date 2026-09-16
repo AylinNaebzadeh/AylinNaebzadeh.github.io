@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: niki.nezakati@email.ucr.edu
+  email: Aylin.Naebzadeh@email.ucr.edu
   phone: 
   address:
     street:

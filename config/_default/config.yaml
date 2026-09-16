@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Niki Nezakati # Website name
-baseURL: "https://nikinezakati.github.io/" # Website URL
+title: Aylin Naebzadeh # Website name
+baseURL: "https://AylinNaebzadeh.github.io/" # Website URL
 # RelativeURLs: true
 # CanonifyURLs: true
 
